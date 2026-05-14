@@ -1,0 +1,9 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+form{
+    background-color: rgb(100, 100, 100);
+
+     float:inline-start;
+}

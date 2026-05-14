@@ -1,0 +1,183 @@
+	
+						         prova
+
+
+			Guilherme André Viana Dos Santos	Gustavo Dias de Andrade
+
+	ex1.js
+
+import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa da soma');
+console.log();
+
+console.log('insera um numero');
+let num= Number(ler());
+
+console.log('insera outro numero');
+let num2= Number(ler());
+
+let num3= num + num2;
+
+console.log('A soma de ' + num + ' + ' + num2 + ' = ' + num3);
+
+	ex2.js
+
+import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa do dobro');
+console.log();
+
+console.log('insera um numero');
+let num= Number(ler());
+
+let num2= num * 2;
+
+console.log('o dopro de ' + num + ' é ' + num2);
+
+	ex3.js
+
+import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa do triplo');
+console.log();
+
+console.log('insera um numero');
+let num= Number(ler());
+
+let num2= num * 3;
+
+console.log('o triplo de ' + num + ' é ' + num2);
+
+	ex4.js
+
+import prompt from 'prompt-sync'
+let ler= prompt();
+
+console.log('programa da metade');
+console.log();
+
+console.log('Insira um número');
+let num= Number(ler());
+
+let num2= num / 2;
+
+console.log('A metade de ' + num + ' é ' + num2);
+
+	ex5.js
+import prompt from 'prompt-sync'
+let ler= prompt();
+
+console.log('programa da area');
+console.log();
+
+console.log('Insira um número');
+let num= Number(ler());
+
+let num2= num * num;
+
+console.log('A area do quadrado é ' + num2);
+
+	ex6.js
+import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa da area do retangulo');
+console.log();
+
+console.log('insera o valor da base');
+let num= Number(ler());
+
+console.log('insera o valor da altura');
+let num2= Number(ler());
+
+let num3= num * num2;
+
+console.log('A área do retângulo (' + num + ' p0r ' + num2 + ') é ' + num3);
+
+	ex7.js
+
+import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa da area do triangulo');
+console.log();
+
+console.log('insera a altura');
+let num= Number(ler());
+
+console.log('insera a base');
+let num2= Number(ler());
+
+let num3= num * num2 / 2;
+
+console.log('A área do triângulo é ' + num3);
+
+	ex8.js
+
+import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa do perimetro do octagono');
+console.log();
+
+console.log('insera um numero');
+let num= Number(ler());
+
+
+let num2= num * 8;
+
+console.log("O perímetro do octágono é " + num2);
+
+	ex9.js
+
+import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa da media');
+console.log();
+
+console.log('insera um numero');
+let num= Number(ler());
+
+console.log('insera outro numero');
+let num2= Number(ler());
+
+console.log('insera outro numero');
+let num3= Number(ler());
+
+let num4= num + num2 + num3 / 3;
+
+console.log('A media é ' +num4 );
+
+	ex10.js
+
+ import prompt from 'prompt-sync'
+let ler= prompt ();
+
+console.log('programa da media');
+console.log();
+
+console.log('insera um numero');
+let num= Number(ler());
+
+console.log('insera outro numero');
+let num2= Number(ler());
+
+console.log('insera outro numero');
+let num3= Number(ler());
+
+console.log('insera outro numero');
+let num4= Number(ler());
+
+console.log('insera outro numero');
+let num5= Number(ler());
+
+let num6= num + num2 + num3 + num4 + num5 / 5;
+
+console.log('A media é ' +num6 );
+
+

@@ -1,0 +1,21 @@
+.um{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.dv1-1{
+    width: 60%;
+}
+
+.dv1-2{
+    width: 40%;
+}
+
+.dv1-2 img{
+    width: 100%;
+}
+
+body{
+    background-color: darksalmon;
+}

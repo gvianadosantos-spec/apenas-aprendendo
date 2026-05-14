@@ -1,0 +1,30 @@
+body{
+    gap: 30px
+}
+
+.tudo{
+    gap: 25px;
+}
+
+.titulo{
+    background-color: rgb(155, 46, 101);
+     border: solid black;
+
+}
+
+.D0-0{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-direction: row-reverse;
+    background-color: blue;
+    border: solid black;
+}
+
+.D0-1{
+    display:flex;
+    align-items: center;
+    gap: 20px;
+    background-color:red;
+    border: solid black;
+}

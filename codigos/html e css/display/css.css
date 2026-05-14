@@ -1,0 +1,41 @@
+.tudo1{
+    display:inline-flex;
+    background-color: black;
+    gap: 10px;
+}
+ .um{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+ }
+.dois{
+    background-color:blue;
+    height: 200px;
+    width: 200px;
+}
+.tres{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+.tudo2{
+    gap: 20px;
+}
+.um-1{
+    display:inline-flex;
+}
+.um-1 h2{
+ align-items: center;   
+}
+.dois-1{
+    display: inline-flex;
+}
+.dois-1 h2{
+    align-items: center;
+}
+.tres-1{
+    display: inline-flex;
+}
+.tres-1 h2{
+    align-items: center;
+}

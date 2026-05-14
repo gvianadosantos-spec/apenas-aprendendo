@@ -1,0 +1,38 @@
+.title{
+    display: flex;
+    justify-content:space-between;
+    background-color: red;
+    width: 100%;
+    border: solid;
+     height: 230px
+}
+
+.title2{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+    background-color: blue;
+    border: solid;
+     height: 230px
+}
+
+.title3{
+    display: flex;
+    width: 100%;
+    background-color: yellow;
+    flex-direction:column;
+    border: solid;
+    height: 230px;
+}
+
+.a{
+    display:flex;
+    justify-content:space-between;
+
+}
+.b{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}

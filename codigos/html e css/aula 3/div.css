@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+.principal{
+    background-color: rgb(229, 255, 0);
+    height: 500px;
+    width: 500px;
+
+}
+.um{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    float:right;
+}
+.dois{
+    background-color: orangered;
+    height: 150px;
+    width: 150px;
+
+};

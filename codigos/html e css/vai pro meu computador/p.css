@@ -1,0 +1,14 @@
+.conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.item{
+    flex: 1 30%;
+    background-color: rgb(0, 255, 0);
+    display: flex;
+    width: 50px;
+    height: 400px;
+
+}

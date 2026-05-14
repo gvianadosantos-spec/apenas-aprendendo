@@ -1,0 +1,19 @@
+ul{
+    background-color: aqua;
+    display: flex;
+    margin: 20;
+    box-sizing:border-box;
+    width: 40%;
+    right: 40%;
+    gap: 10px;
+}
+
+.bla{
+    background-color: black;
+    color: red ;
+}
+
+li:hover{
+    color: black;
+    background-color: red;
+}

@@ -1,0 +1,44 @@
+.cima{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.cima-direito{
+    width: 150px;
+    height: 200px;
+}
+.cima-direito img{
+    height: 100px;
+    width: 200px;
+}
+.cima-meio{
+
+    gap: 10px;
+    display: flex;
+    margin-right: 100px;
+    margin-top: 35px;
+}
+.cima-meio button{
+    border: 1px white;
+    background-color: white;
+    
+}
+.inicio{
+    color: red;
+}
+.cima-esquerdo{
+    margin-right: 75px;
+    margin-top: 23px;
+    gap: 30px;
+}
+.cima-esquerdo button{
+    height: 30px;
+    border: 1px red;
+    background-color: red;
+    border-radius: 20px;
+}
+.cima-esquerdo img{
+    width: 25px;
+}
+
+
